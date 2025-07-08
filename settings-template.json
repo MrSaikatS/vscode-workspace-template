@@ -19,7 +19,7 @@
 	// Editor Settings
 	"editor.fontFamily": "GeistMono Nerd Font",
 	"editor.fontLigatures": true,
-	"editor.fontSize": 16,
+	"editor.fontSize": 14,
 	"editor.inlineSuggest.enabled": true,
 	"editor.minimap.enabled": false,
 	"editor.cursorBlinking": "expand",
@@ -43,13 +43,17 @@
 
 	// Prettier Settings
 	"prettier.bracketSameLine": true,
+	"prettier.enable": true,
+	"prettier.experimentalTernaries": true,
+	"prettier.semi": true,
 	"prettier.singleAttributePerLine": true,
-	"prettier.withNodeModules": true,
+	"prettier.tabWidth": 4,
 	"prettier.useTabs": true,
+	"prettier.withNodeModules": true,
 
 	// Integrated Terminal Settings
 	"terminal.integrated.fontFamily": "GeistMono Nerd Font",
-	"terminal.integrated.fontSize": 16,
+	"terminal.integrated.fontSize": 14,
 	"terminal.integrated.confirmOnExit": "always",
 	"terminal.integrated.enableMultiLinePasteWarning": "never",
 	"terminal.integrated.scrollback": 50,
