@@ -1,0 +1,95 @@
+{
+	// General Settings
+	"window.zoomLevel": 1,
+
+	// Workbench Settings
+	"workbench.startupEditor": "none",
+	"workbench.colorTheme": "Material Theme Palenight High Contrast",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.sideBar.location": "right",
+	"workbench.list.smoothScrolling": true,
+	"workbench.tree.enableStickyScroll": false,
+
+	// Explorer Settings
+	"explorer.confirmDelete": false,
+	"explorer.autoOpenDroppedFile": false,
+	"explorer.compactFolders": false,
+	"explorer.copyRelativePathSeparator": "/",
+
+	// Editor Settings
+	"editor.fontFamily": "GeistMono Nerd Font",
+	"editor.fontLigatures": true,
+	"editor.fontSize": 16,
+	"editor.inlineSuggest.enabled": true,
+	"editor.minimap.enabled": false,
+	"editor.cursorBlinking": "expand",
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.wordWrap": "on",
+	"editor.mouseWheelZoom": true,
+	"editor.linkedEditing": true,
+	"editor.bracketPairColorization.enabled": true,
+	"editor.guides.bracketPairs": true,
+	"editor.guides.bracketPairsHorizontal": true,
+	"editor.stickyScroll.enabled": false,
+	"editor.stickyScroll.scrollWithEditor": false,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"editor.quickSuggestions": {
+		"strings": "on"
+	},
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": "explicit"
+	},
+
+	// Prettier Settings
+	"prettier.bracketSameLine": true,
+	"prettier.singleAttributePerLine": true,
+	"prettier.withNodeModules": true,
+	"prettier.useTabs": true,
+
+	// Integrated Terminal Settings
+	"terminal.integrated.fontFamily": "GeistMono Nerd Font",
+	"terminal.integrated.fontSize": 16,
+	"terminal.integrated.confirmOnExit": "always",
+	"terminal.integrated.enableMultiLinePasteWarning": "never",
+	"terminal.integrated.scrollback": 50,
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.integrated.defaultProfile.windows": "Command Prompt",
+	"terminal.integrated.fontLigatures.enabled": true,
+
+	// Tailwind CSS Settings
+	"tailwindCSS.emmetCompletions": true,
+	"tailwindCSS.includeLanguages": {
+		"plaintext": "html"
+	},
+
+	// Screencast Mode Settings
+	"screencastMode.verticalOffset": 0,
+	"screencastMode.fontSize": 30,
+	"screencastMode.keyboardOptions": {
+		"showKeys": true,
+		"showKeybindings": true,
+		"showCommands": true,
+		"showCommandGroups": true,
+		"showSingleEditorCursorMoves": true
+	},
+
+	// Prisma Settings
+	"[prisma]": {
+		"editor.defaultFormatter": "Prisma.prisma"
+	},
+
+	// Remote Development Settings
+	"remote.autoForwardPorts": true,
+	"remote.portsAttributes": {
+		"3000": {
+			"protocol": "http"
+		}
+	},
+
+	// Git Settings
+	"git.ignoreMissingGitWarning": true,
+	"git.enableSmartCommit": true,
+	"git.autofetch": true,
+	"git.confirmSync": false
+}
