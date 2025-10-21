@@ -1,15 +1,46 @@
 # VSCode Workspace Template
 
-This is a template for creating a new VSCode workspace.
+Use this template to set up a fresh Visual Studio Code workspace in a few minutes.
 
-**Note: Restart VSCode afrer completing every step. (Ctrl + Shift + P > Developer: Reload Window)**
+## Prerequisites
 
-## Getting Started
+-   You already have [Visual Studio Code](https://code.visualstudio.com/) installed.
+-   You are using Windows. If you use another system, change the font install steps to match your OS.
 
-**_Step 1._** Install the font using GeistMonoNerdFont-Regular.otf file. Open file explorer and Right click on the font file and click "Show more options". Then click on "Install for all users".
+## Why use this template
 
-**_Step 2._** Goto VSCode extensions and type "@recommended". This will open the workspace recommendations. After that install recommended extensions using the cloud type icon button.
+-   **Clean font**: the JetBrains Mono Nerd Font gives you ligatures and symbols that look great in code and the terminal.
+-   **Helpful defaults**: tabs, formatting, and Tailwind CSS support are already turned on.
+-   **Faster setup**: the recommended extensions give you linting, Prisma tools, better errors, and more with one click.
 
-**_Step 3._** Copy the contents of settings-template.json file. After that Press Ctrl + Shift + P and type "settings json" and select "Preferences: Open User Settings (JSON)". Clear all contents on the opened file and paste contents which you copied.
+## What is inside
 
-**_Step 4._** Restart VSCode and enjoy coding. GLHF!
+-   `.vscode/extensions.json`: suggested extensions for this setup
+-   `JetBrainsMonoNerdFont-Regular.ttf`: programming font used in the settings
+-   `settings-template.json`: ready-to-copy VSCode user settings
+
+## How to set up
+
+1. **Install the font**: open `JetBrainsMonoNerdFont-Regular.ttf`, right-click, choose "Show more options", then pick "Install for all users".
+2. **Install the extensions**: in VSCode open the Extensions view (`Ctrl + Shift + X`), type `@recommended`, and install each item with the cloud icon.
+3. **Copy the settings**: open `settings-template.json`, copy everything, then in VSCode press `Ctrl + Shift + P`, run "Preferences: Open User Settings (JSON)", delete existing text, and paste the copied content.
+4. **Reload VSCode**: press `Ctrl + Shift + P`, run "Developer: Reload Window", and you are ready to code.
+
+## Adjust the settings if needed
+
+-   If you already had personal settings, save a copy before pasting the template so you can bring back anything you missed.
+-   After the reload, tweak values like zoom level or terminal shell if you prefer something else.
+
+## Check everything works
+
+-   Open a file and confirm the font changed in the editor and terminal.
+-   Create a quick file and save it to make sure Prettier formats it without errors.
+-   Type Tailwind classes in a file and confirm you see autocompletion.
+
+## Helpful links
+
+-   [JetBrains Mono Nerd Font download page](https://www.nerdfonts.com/font-downloads)
+-   [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+-   [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+-   [Tailwind CSS IntelliSense extension](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+-   [Prisma extension](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma)
