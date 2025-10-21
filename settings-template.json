@@ -17,9 +17,9 @@
 	"explorer.copyRelativePathSeparator": "/",
 
 	// Editor Settings
-	"editor.fontFamily": "GeistMono Nerd Font",
+	"editor.fontFamily": "JetBrainsMono Nerd Font",
 	"editor.fontLigatures": true,
-	"editor.fontSize": 14,
+	"editor.fontSize": 16,
 	"editor.inlineSuggest.enabled": true,
 	"editor.minimap.enabled": false,
 	"editor.cursorBlinking": "expand",
@@ -52,11 +52,11 @@
 	"prettier.withNodeModules": true,
 
 	// Integrated Terminal Settings
-	"terminal.integrated.fontFamily": "GeistMono Nerd Font",
-	"terminal.integrated.fontSize": 14,
+	"terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+	"terminal.integrated.fontSize": 16,
 	"terminal.integrated.confirmOnExit": "always",
 	"terminal.integrated.enableMultiLinePasteWarning": "never",
-	"terminal.integrated.scrollback": 50,
+	"terminal.integrated.scrollback": 500,
 	"terminal.integrated.cursorBlinking": true,
 	"terminal.integrated.defaultProfile.windows": "Command Prompt",
 	"terminal.integrated.fontLigatures.enabled": true,
