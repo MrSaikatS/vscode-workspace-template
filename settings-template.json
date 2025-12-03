@@ -32,7 +32,7 @@
 	"editor.guides.bracketPairsHorizontal": true,
 	"editor.stickyScroll.enabled": false,
 	"editor.stickyScroll.scrollWithEditor": false,
-	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.defaultFormatter": "prettier.prettier-vscode",
 	"editor.formatOnSave": true,
 	"editor.quickSuggestions": {
 		"strings": "on"
