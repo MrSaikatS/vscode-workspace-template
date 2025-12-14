@@ -48,7 +48,6 @@
   "prettier.singleAttributePerLine": true,
   "prettier.useTabs": false,
   "prettier.withNodeModules": true,
-  "prettier.resolveGlobalModules": true,
 
   // Integrated Terminal Settings
   "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
