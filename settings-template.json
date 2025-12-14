@@ -42,7 +42,6 @@
   },
 
   // Prettier Settings
-  "prettier.tabWidth": 2,
   "prettier.bracketSameLine": true,
   "prettier.experimentalTernaries": true,
   "prettier.semi": true,
