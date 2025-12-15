@@ -1,14 +1,15 @@
 {
-	"recommendations": [
-		"adpyke.codesnap",
-		"usernamehw.errorlens",
-		"dbaeumer.vscode-eslint",
-		"pkief.material-icon-theme",
-		"t3dotgg.vsc-material-theme-but-i-wont-sue-you",
-		"pulkitgangwar.nextjs-snippets",
-		"prettier.prettier-vscode",
-		"yoavbls.pretty-ts-errors",
-		"prisma.prisma",
-		"bradlc.vscode-tailwindcss"
-	]
+  "recommendations": [
+    "adpyke.codesnap",
+    "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint",
+    "pkief.material-icon-theme",
+    "t3dotgg.vsc-material-theme-but-i-wont-sue-you",
+    "pulkitgangwar.nextjs-snippets",
+    "prettier.prettier-vscode",
+    "yoavbls.pretty-ts-errors",
+    "prisma.prisma",
+    "bradlc.vscode-tailwindcss",
+    "zignd.html-css-class-completion"
+  ]
 }
