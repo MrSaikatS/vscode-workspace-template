@@ -6,10 +6,10 @@
     "pkief.material-icon-theme",
     "t3dotgg.vsc-material-theme-but-i-wont-sue-you",
     "pulkitgangwar.nextjs-snippets",
-    "prettier.prettier-vscode",
     "yoavbls.pretty-ts-errors",
     "prisma.prisma",
     "bradlc.vscode-tailwindcss",
-    "zignd.html-css-class-completion"
+    "zignd.html-css-class-completion",
+    "esbenp.prettier-vscode"
   ]
 }
