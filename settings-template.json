@@ -19,7 +19,7 @@
   // Editor Settings
   "editor.fontFamily": "JetBrainsMono Nerd Font",
   "editor.fontLigatures": true,
-  "editor.fontSize": 16,
+  "editor.fontSize": 14,
   "editor.inlineSuggest.enabled": true,
   "editor.minimap.enabled": false,
   "editor.cursorBlinking": "expand",
@@ -47,11 +47,11 @@
   "prettier.semi": true,
   "prettier.singleAttributePerLine": true,
   "prettier.useTabs": false,
-  "prettier.withNodeModules": true,
+  "prettier.withNodeModules": false,
 
   // Integrated Terminal Settings
   "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
-  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontSize": 14,
   "terminal.integrated.confirmOnExit": "always",
   "terminal.integrated.enableMultiLinePasteWarning": "never",
   "terminal.integrated.scrollback": 500,
