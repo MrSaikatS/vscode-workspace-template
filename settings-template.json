@@ -1,6 +1,6 @@
 {
   // General Settings
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 0.5,
 
   // Workbench Settings
   "workbench.startupEditor": "none",
