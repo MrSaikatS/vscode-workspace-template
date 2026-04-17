@@ -9,6 +9,7 @@
   "workbench.sideBar.location": "right",
   "workbench.list.smoothScrolling": true,
   "workbench.tree.enableStickyScroll": false,
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
 
   // Explorer Settings
   "explorer.confirmDelete": false,
